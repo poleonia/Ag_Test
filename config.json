@@ -1,0 +1,7 @@
+{
+    "name": "name",
+    "model": "default model to run, see llm_test_helpers/__init__.py for implemented options",
+    "run_test": "Command that is run first, for generating content (e.g. python3 run_tests.py)",
+    "run_score": "Command that is run second, for scoring generated content (optional if one command does it all)",
+    "tags": ["any", "tags", "here"]
+}
