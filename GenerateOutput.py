@@ -3,9 +3,7 @@ import json
 # Example data to be written to the JSON file
 data = {
     "output": {
-        "grade1": 0,
-        "grade2": 30,
-        "grade3": 50
+        "grade1": 0,1,2,3,4,5
     }
 }
 
